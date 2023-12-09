@@ -1,1 +1,1 @@
-docker build -t tevano/tiddlywiki:v1 .
+docker build -t tevano/tiddlywiki:v5.3.1 .

@@ -1,6 +1,6 @@
 FROM node:16.13.0-alpine3.14
 
-RUN npm install -g tiddlywiki@5.2.0 --registry=https://registry.npm.taobao.org
+RUN npm install -g tiddlywiki@5.3.1 --registry=https://registry.npm.taobao.org
 
 EXPOSE 8080
 
